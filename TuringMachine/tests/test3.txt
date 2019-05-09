@@ -1,0 +1,10 @@
+3 3 3
+a b c
+i j f
+i
+f
+a i b j 1
+a j b j -1
+b j a f 1
+4
+a a a a

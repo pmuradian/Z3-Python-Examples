@@ -1,0 +1,19 @@
+YES
+
+c|remove_a a|  a|  b|  b|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  a|remove_a' a|  b|  b|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  a|remove_b b|  b|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  a|  b|remove_b b|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  a|  b|  b|remove_b c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  a|  b|  b|  c|remove_b c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  a|  b|  b|remove_b' c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  a|  b|remove_a c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  a|remove_a b|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|remove_a a|  b|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  a|remove_a' b|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  c|  b|remove_b c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  c|  b|  c|remove_b c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  c|  b|remove_b' c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  c|remove_a c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  c|  c|remove_a' c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c| 
+c|  c|  c|  c|f c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|  c|

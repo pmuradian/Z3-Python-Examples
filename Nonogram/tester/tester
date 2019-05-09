@@ -1,0 +1,7 @@
+#!/bin/bash
+verdict=OK
+for x in ambiguous unsolvable sample
+do ./nonogram-solver <$x.in >$x.out
+diff --ignore-all-space $x.out $x.sol || verdict="test failed: $x"
+done
+echo $verdict

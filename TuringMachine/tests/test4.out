@@ -1,0 +1,13 @@
+YES
+
+c|i a|  a|  a|  c|  a|  a|  a|  a|  a|
+c|  a|i a|  a|  c|  a|  a|  a|  a|  a|
+c|  b|  a|i a|  c|  a|  a|  a|  a|  a|
+c|  b|  b|  a|i c|  a|  a|  a|  a|  a|
+c|  b|  b|  b|  c|i a|  a|  a|  a|  a|
+c|  b|  b|  b|s c|  a|  a|  a|  a|  a|
+c|  b|  b|s a|  c|  a|  a|  a|  a|  a|
+c|  b|s a|  a|  c|  a|  a|  a|  a|  a|
+c|s a|  a|  a|  c|  a|  a|  a|  a|  a|
+c|f a|  a|  a|  c|  a|  a|  a|  a|  a|
+NO

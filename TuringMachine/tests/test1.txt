@@ -1,0 +1,12 @@
+5 2 5
+a b c d e
+i f
+i
+f
+a i b i 0
+b i c i 0
+c i d i 0
+d i e i 0
+e i a f 1
+6
+a a a a a a

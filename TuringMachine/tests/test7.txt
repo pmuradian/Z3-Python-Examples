@@ -1,0 +1,16 @@
+3 5 9
+a b c
+remove_a remove_a' remove_b remove_b' f
+remove_a
+f
+a remove_a a remove_a -1
+b remove_a b remove_a -1
+c remove_a c remove_a' 1
+a remove_a' c remove_b 1
+c remove_a' c f 0
+a remove_b a remove_b 1
+b remove_b b remove_b 1
+c remove_b c remove_b' -1
+b remove_b' c remove_a -1
+18
+c a a a b c c c c c c c c c c c c c
